@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment — NEVER commit this
+.env
+
+# ChromaDB data (too large for git)
+chroma_db/
+
+# Flutter
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+
+# OS
+.DS_Store
+Thumbs.db
