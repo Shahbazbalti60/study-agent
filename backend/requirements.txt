@@ -1,19 +1,21 @@
+# API & Server
 fastapi==0.111.0
 uvicorn[standard]==0.30.1
 python-multipart==0.0.9
 
+# LLM
 groq==0.9.0
 
+# PDF parsing
 pymupdf==1.24.5
 
+# Embeddings & Vector DB
 chromadb==0.5.3
 sentence-transformers==3.0.1
 
-langchain==0.2.6
-langchain-community==0.2.6
-
+# Web search
 tavily-python==0.3.3
 
+# Utilities
 python-dotenv==1.0.1
 pydantic==2.7.4
-genanki==0.13.0
