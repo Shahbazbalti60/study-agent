@@ -33,13 +33,13 @@ Built to demonstrate the **AI agent / LLM stack** skills required for modern AI 
 ## 🖼 Screenshots
 
 ### Chat with Citations
-![Chat Screen](screenshots/chat.png)
+![Chat Screen](ScreenShots/chat.png)
 
 ### Quiz Generation
-![Quiz Screen](screenshots/quiz.png)
+![Quiz Screen](ScreenShots/quiz.png)
 
 ### Flashcards
-![Flashcard Screen](screenshots/flashcards.png)
+![Flashcard Screen](ScreenShots/flashcard.PNG)
 
 ---
 
